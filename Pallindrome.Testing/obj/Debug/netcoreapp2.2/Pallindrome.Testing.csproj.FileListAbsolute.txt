@@ -1,0 +1,14 @@
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\Pallindrome.Testing.deps.json
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\Pallindrome.Testing.runtimeconfig.json
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\Pallindrome.Testing.runtimeconfig.dev.json
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\Pallindrome.Testing.dll
+C:\revature\Challenges\Week1\Pallindrome.Testing\bin\Debug\netcoreapp2.2\Pallindrome.Testing.pdb
+C:\revature\Challenges\Week1\Pallindrome.Testing\obj\Debug\netcoreapp2.2\Pallindrome.Testing.csprojAssemblyReference.cache
+C:\revature\Challenges\Week1\Pallindrome.Testing\obj\Debug\netcoreapp2.2\Pallindrome.Testing.csproj.CoreCompileInputs.cache
+C:\revature\Challenges\Week1\Pallindrome.Testing\obj\Debug\netcoreapp2.2\Pallindrome.Testing.AssemblyInfoInputs.cache
+C:\revature\Challenges\Week1\Pallindrome.Testing\obj\Debug\netcoreapp2.2\Pallindrome.Testing.AssemblyInfo.cs
+C:\revature\Challenges\Week1\Pallindrome.Testing\obj\Debug\netcoreapp2.2\Pallindrome.Testing.dll
+C:\revature\Challenges\Week1\Pallindrome.Testing\obj\Debug\netcoreapp2.2\Pallindrome.Testing.pdb

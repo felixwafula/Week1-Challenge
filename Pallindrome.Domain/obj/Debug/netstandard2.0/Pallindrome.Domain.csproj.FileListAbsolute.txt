@@ -1,0 +1,9 @@
+C:\revature\Challenges\Week1\pallindrome.Domain\bin\Debug\netstandard2.0\Pallindrome.Domain.deps.json
+C:\revature\Challenges\Week1\pallindrome.Domain\bin\Debug\netstandard2.0\Pallindrome.Domain.dll
+C:\revature\Challenges\Week1\pallindrome.Domain\bin\Debug\netstandard2.0\Pallindrome.Domain.pdb
+C:\revature\Challenges\Week1\pallindrome.Domain\obj\Debug\netstandard2.0\Pallindrome.Domain.csprojAssemblyReference.cache
+C:\revature\Challenges\Week1\pallindrome.Domain\obj\Debug\netstandard2.0\Pallindrome.Domain.csproj.CoreCompileInputs.cache
+C:\revature\Challenges\Week1\pallindrome.Domain\obj\Debug\netstandard2.0\Pallindrome.Domain.AssemblyInfoInputs.cache
+C:\revature\Challenges\Week1\pallindrome.Domain\obj\Debug\netstandard2.0\Pallindrome.Domain.AssemblyInfo.cs
+C:\revature\Challenges\Week1\pallindrome.Domain\obj\Debug\netstandard2.0\Pallindrome.Domain.dll
+C:\revature\Challenges\Week1\pallindrome.Domain\obj\Debug\netstandard2.0\Pallindrome.Domain.pdb
